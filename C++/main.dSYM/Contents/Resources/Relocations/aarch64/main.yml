@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mizz/Projects/PhD-Research/active-drying/C++/main'
+relocations:     []
+...
